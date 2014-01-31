@@ -9,5 +9,6 @@ namespace Gittest
     class Class2
     {
         int b = 1;
+        int h = 823;
     }
 }
