@@ -8,5 +8,6 @@ namespace Gittest
 {
     class Class2
     {
+        int b = 1;
     }
 }
