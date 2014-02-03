@@ -8,7 +8,7 @@ namespace Gittest
 {
     class Class2
     {
-        int b = 1;
+        int b = 2;
         int h = 823;
     }
 }
